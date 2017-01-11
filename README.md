@@ -1,4 +1,4 @@
-# Github User Finder - Created with assistance of an Eduonix Tutorial
+# Github User Finder - Created with the assistance of an Eduonix Tutorial
 
 Use this app to search users on Github and to list links to 30 of their repos.
 
