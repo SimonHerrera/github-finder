@@ -15,6 +15,6 @@ export class ProfileComponent  {
       this.user = user;
       console.log(user)
 
-    })''
+    })
   }
 }
